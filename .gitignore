@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local plans and notes, never versioned
+notes/
+
+# Personal agent instructions and settings, never versioned
+CLAUDE.local.md
+.claude/settings.local.json
