@@ -1,0 +1,10 @@
+[package]
+name = "bin-uploader"
+version = "0.1.0"
+edition = "2024"
+description = "Finds the latest ESP32 build of an Arduino sketch and flashes it with esptool"
+license = "MIT"
+repository = "https://github.com/jhowsbDiem/bin-uploader"
+
+[dependencies]
+clap = { version = "4.6.7", features = ["derive"] }
